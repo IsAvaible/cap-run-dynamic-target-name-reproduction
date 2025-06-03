@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "cap-run-dynamic-target-name-reproduction",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
